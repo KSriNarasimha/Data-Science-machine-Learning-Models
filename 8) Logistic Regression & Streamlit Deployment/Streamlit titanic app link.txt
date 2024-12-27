@@ -1,0 +1,7 @@
+Deploy link of stream lit titanic app : https://appapptitanicsurvivalprediction-cp8ukvn8yiqc5bywhbuxig.streamlit.app/
+
+
+streamlit login page : https://share.streamlit.io/
+
+streamlit page : https://share.streamlit.io/
+
